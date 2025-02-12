@@ -4,7 +4,9 @@
 
 <p>Full Stack Developer | Fascinated by Software Development 👨🏻‍💻<p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvsantos/)
+<a href="https://www.linkedin.com/in/dvsantos/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ![Davi Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=dvsantoss&show_icons=true&theme=radical)
 
