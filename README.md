@@ -1,8 +1,10 @@
-### Hello World, I am Davi! 👋
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Ol%C3%A1+Mundo%2C+Eu+sou+Davi!+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
-### 🚀 About Me:
+### 🚀 Sobre Mim:
 
-<p>Full Stack Developer | Fascinated by Software Development.👨🏻‍💻<p>
+<p>Desenvolvedor Full Stack| Fascinado por Desenvolvimento de Software.👨🏻‍💻<p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvsantos/)
 [![Gmail](https://img.shields.io/badge/ivadseabra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
