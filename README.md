@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim:
 
-<p>Desenvolvedor Full Stack| Fascinado por Desenvolvimento de Software.👨🏻‍💻<p>
+<p>Desenvolvedor Full Stack | Fascinado por Desenvolvimento de Software.👨🏻‍💻<p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvsantos/)
 [![Gmail](https://img.shields.io/badge/ivadseabra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
