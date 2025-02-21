@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvsantoss&show_progress=true)
 
 
-### Techs Stack 🚀
+### Habilidades tec 🚀
 
 <div style = "display: inline_block"></br>
 
@@ -32,6 +32,6 @@
 <img align="center" alt="Jquery" src = "https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img align="center" alt="MySql" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Sequelize" src = "https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue">
-<p>loading...</p>
+<p>carregando...</p>
 
 </div>
