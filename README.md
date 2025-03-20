@@ -6,7 +6,7 @@
 
 <p>Desenvolvedor Full Stack 👨🏻‍💻<p>
 
-[![Discord](https://img.shields.io/badge/_dvsantoss-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@_dvsantoss)
+[![Discord](https://img.shields.io/badge/_dvsantoss-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 ![Davi Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=dvsantoss&show_icons=true&theme=radical)
 
