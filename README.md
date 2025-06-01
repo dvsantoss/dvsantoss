@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim:
 
-<p>Desenvolvedor Full Stack 👨🏻‍💻<p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas | UFRN 👨🏻‍💻<p>
 
 [![Discord](https://img.shields.io/badge/_dvsantoss-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
 
