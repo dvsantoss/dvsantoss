@@ -6,8 +6,6 @@
 
 <p>Estudante de Análise e Desenvolvimento de Sistemas | UFRN 👨🏻‍💻<p>
 
-[![Discord](https://img.shields.io/badge/_dvsantoss-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#)
-
 ![Davi Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=dvsantoss&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dvsantoss&show_progress=true)
