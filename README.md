@@ -6,8 +6,6 @@
 
 <p>Estudante de Análise e Desenvolvimento de Sistemas | UFRN 👨🏻‍💻<p>
 
-![Davi Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=dvsantoss&show_icons=true&theme=radical)
-
 <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvsantoss&layout=compact&langs_count=7&theme=dark"/>
 
 
